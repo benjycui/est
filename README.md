@@ -1,6 +1,8 @@
 # ECMAScript Template
 
-ECMAScript Template is a solution to write template in JavaScript. It's based on [JsonML](http://www.jsonml.org/) and [ES2015](http://www.ecma-international.org/ecma-262/6.0/).
+ECMAScript Template is a solution to write template in JavaScript. It's based on [JsonML](http://www.jsonml.org/) and [ES2015](http://www.ecma-international.org/ecma-262/6.0/). 
+
+Maybe ECMAScript Template challenges traditional design of template engine, and at first glance some of the ideas may seem crazy. [Give it five minutes](https://signalvnoise.com/posts/3124-give-it-five-minutes) while reading this documentation.
 
 ## Why
 
@@ -10,7 +12,6 @@ ECMAScript Template is a solution to write template in JavaScript. It's based on
   * Use the latest JavaScript features with [Babel](https://babeljs.io/).
   * Lint your code style with [ESLint](http://eslint.org/).
   * And so on...
-* Any application that can be written in JavaScript, will eventually be written in JavaScript.
 
 ## Usage
 
@@ -56,6 +57,8 @@ console.log(html);
 **Note:** To simplify examples, we just use [jsonml-html](https://github.com/mckamey/jsonml) to convert JsonML to HTML. However, we can use any library to convert JsonML to any format.
 
 ## Documentation
+
+Version: 0.1.0-beta
 
 ### Tags
 

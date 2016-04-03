@@ -5,7 +5,7 @@ ECMAScript Template is a solution to write template in JavaScript. It's based on
 ## Why
 
 * Easy to learn. It is just JavaScript and some conventions.
-* High-extensible. You can apply any JavaScript trick to it.
+* High-extensible. JsonML is something like [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree), and we can operate it easily.
 * Mature ecosystem.
   * Use the latest JavaScript features with [Babel](https://babeljs.io/).
   * Lint your code style with [ESLint](http://eslint.org/).

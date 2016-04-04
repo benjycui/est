@@ -7,7 +7,9 @@ Maybe ECMAScript Template challenges traditional design of template engine, and 
 ## Why
 
 * Easy to learn. It is just JavaScript and some conventions.
-* High-extensible. JsonML is something like [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree), and we can operate it easily.
+* High-extensible.
+  * It is just JavaScript, and we can apply any JavaScript trick to it.
+  * JsonML is something like [AST](https://en.wikipedia.org/wiki/Abstract_syntax_tree), and we can operate it easily.
 * Mature ecosystem.
   * Use the latest JavaScript features with [Babel](https://babeljs.io/).
   * Lint your code style with [ESLint](http://eslint.org/).
@@ -58,7 +60,7 @@ console.log(html);
 
 ## Documentation
 
-Version: 0.1.0-beta
+Version: 0.1.0-beta.0
 
 ### Tags
 
